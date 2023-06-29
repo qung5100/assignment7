@@ -1,0 +1,29 @@
+h1,
+h2 {
+  /* changed the color to blue */
+  color: blue;
+}
+p {
+  color: gray;
+}
+ul {
+  border: 2px solid orange;
+}
+ol {
+  /* changed the border color to green for it easier to read */
+  border: 2px solid green;
+}
+ol,
+ul {
+  /* changed the padding to 30px to give more space on the left of the list */
+  padding: 5px 30px;
+  border-radius: 4px;
+}
+h1,
+strong {
+  /* changed the h1 and strong element to red */
+  color: red;
+}
+em {
+  color: gray;
+}
